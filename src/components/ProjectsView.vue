@@ -104,7 +104,7 @@
             target="”_blank”"
             >Donar</a
           >
-          <h1>{{result.id}}</h1>
+          <h1>{{ result.id }}</h1>
         </div>
       </div>
     </div>
